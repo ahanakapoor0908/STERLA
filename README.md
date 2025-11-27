@@ -1,0 +1,2 @@
+# STERLA
+ai study app
